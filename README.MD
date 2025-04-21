@@ -1,1 +1,1 @@
-https://bugeverywhere03.github.io/HTML-Project/
+https://github.com/BugEverywhere03/HTML-Project
